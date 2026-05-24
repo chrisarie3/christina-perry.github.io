@@ -11,14 +11,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Project"
-   url: /projects/    
+#  - title: "Project"
+#   url: /projects/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
