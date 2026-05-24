@@ -1,6 +1,6 @@
 ---
-title: "Java Calculator"
 [Java Project](https://codehs.com)
+title: "Java Calculator"
 excerpt: "This is a java program I created for calculating numbers. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
