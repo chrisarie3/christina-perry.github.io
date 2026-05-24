@@ -26,13 +26,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ms. Perry"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi there!"
+  location         : "Tri-Cities, WA"
+  employer         : "Richland High School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chrisina.perry@rsd.edu" 
 
   # Academic websites
   academia         : # URL
