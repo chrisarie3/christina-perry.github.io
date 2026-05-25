@@ -1,6 +1,6 @@
 ---
 title: "Java Calculator"
-excerpt: "This is a java program I created for calculating numbers. <br/><img src='/images/500x300.png'>"
+excerpt: "This is a java program I created for calculating numbers. <br/><img src='/portfolio/Password-Generator.png'>"
 collection: portfolio
 ---
 
