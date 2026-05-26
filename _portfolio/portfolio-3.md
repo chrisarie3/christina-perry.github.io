@@ -1,6 +1,6 @@
 ---
 title: "Networking Cable Termination"
-excerpt: "Created a functioning Ethernet cable. <br/><img src='/images/500x300.png'>"
+excerpt: "Created a functioning Ethernet cable. <br/><img src='/_portfolio/cable.jpg'>"
 collection: portfolio
 ---
 
